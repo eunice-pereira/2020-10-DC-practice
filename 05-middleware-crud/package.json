@@ -1,0 +1,24 @@
+{
+  "name": "2020-10-Immersive",
+  "version": "1.0.0",
+  "description": "- [X] Q&A - [X] confirming node installation     - macOS     - windows 10 - [-] LP     - [X] confirm access     - [-] connect demos to specific section of LP - [X] JS \"reboot\"     - [X] arrow functions     - [X] array iteration (forEach, filter)     - [X] Working with Objects     - [X] Arrays of Objects - [ ] node!     - [X] `require()` and `module.exports`     - [ ] install a module from the internet     - [ ] built-in `http` module - [ ] AWS     - Review setup/deployment - [X] (optional) breakout room     - [X] for working solo - [X] for DIR Friday     - fetch()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DigitalCraftsStudents/2020-10-Immersive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DigitalCraftsStudents/2020-10-Immersive/issues"
+  },
+  "homepage": "https://github.com/DigitalCraftsStudents/2020-10-Immersive#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-es6-template-engine": "^2.2.3"
+  }
+}

@@ -1,0 +1,30 @@
+body {
+	font-family: 'Poppins', sans-serif;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+		monospace;
+}
+
+section {
+	max-width: 500px;
+	margin: 30px auto;
+	overflow: auto;
+	min-height: 300px;
+	border: 2px solid steelblue;
+	padding: 40px;
+	border-radius: 5px;
+}
+
+.wizard-form {
+	align-items: center;
+}
+
+.wizard-form input {
+	width: 100%;
+	height: 30px;
+	margin: 5px;
+	padding: 3px 7px;
+	font-size: 17px;
+}
